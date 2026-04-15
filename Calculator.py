@@ -85,7 +85,7 @@ def main():
         elif choice == "6":
             modulus()
         elif choice == "7":
-            print("👋 Thank you for using calculator!")
+            print("Thank you for using calculator!")
             sys.exit()
         else:
             print("Invalid choice! Try again.")
